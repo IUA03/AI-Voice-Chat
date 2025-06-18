@@ -1,0 +1,6 @@
+flet==0.27.6
+pygame==2.6.1
+SpeechRecognition==3.14.3
+edge-tts==7.0.2
+langchain==0.3.25
+langchain-ollama==0.3.3
